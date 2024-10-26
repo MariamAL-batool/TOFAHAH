@@ -8,6 +8,7 @@ public class GitHubTest : MonoBehaviour
     void Start()
     {
         Debug.Log("meme");
+        Debug.Log("hellooo");
 
     }
 
